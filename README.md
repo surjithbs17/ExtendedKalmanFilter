@@ -53,7 +53,7 @@ OUTPUT: values provided by the c++ program to the simulator
 
 
 #Simulation Output
-![jpg](predicted_simulation.jpg)
+![png](predicted_simulation.png)
 
 ---
 
