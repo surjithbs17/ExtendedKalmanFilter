@@ -17,19 +17,19 @@ Once the install for uWebSocketIO is complete, the main program can be built and
 
 
 Handled Files
-#FusionEKF.cpp
+# FusionEKF.cpp
 Initialized the variables
 
-#FusionEKF.h
+# FusionEKF.h
 Declaration of noises
 
-#kalman_filter.cpp
+# kalman_filter.cpp
 Updated the functions from the udacity lectures
 
-#Kalman_filter.h
+# Kalman_filter.h
 Added jacobian matrix
 
-#tools.cpp
+# tools.cpp
 Added functions to calculate jacobian and RMSE
 
 
@@ -52,7 +52,7 @@ OUTPUT: values provided by the c++ program to the simulator
 ["rmse_vy"]
 
 
-#Simulation Output
+# Simulation Output
 ![png](predicted_simulation.png)
 
 ---
